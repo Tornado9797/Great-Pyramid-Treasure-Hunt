@@ -1,0 +1,53 @@
+Hannah Schroeder
+Brooks Pettit
+Conner Brewster
+Algorithm
+Level 1
+
+Level 2
+
+Level 3
+The user looks around by inputting “look”
+User sees a piece of parchment hanging on the wall
+User inspects parchment
+The parchment contains a riddle
+The answer to the riddle about the alphabet
+User finds a screwdriver if they look on the floor
+Unscrewing a screw on the wall will make some stones fall
+Behind them is a puzzle
+The goal is to arrange the tiles in alphabetical order
+There are fifteen tiles and one “space” tile arranged in a 4 by 4 grid
+Each letter has a number
+Each position on the grid also has a constant number
+Selecting a tile subtracts or adds one or four to the letter’s number 
+(depending on the direction in which the space is)
+The opposite operation is performed on the space tile
+The program matches the letter’s number to the number corresponding with a spot on the grid
+A series of print statements place the tile in the right spot
+the tiles now move to their corresponding places
+Solving the puzzle opens the door to the stairs
+Move limit?  Health loss if failure to complete the puzzle within it?
+
+Level 4
+User needs to open a door by moving air into two (three?) pipes
+(the pressure turns switches, that open the door)
+Each pipe is wide, covered with a grille, and set into a wall
+(oddly technologically advanced Egyptians…)
+
+It is quite obvious (if the player LOOKs) that there is a switch at the end of each pipe
+The switch needs constant air to turn on (riddle)
+ONE switch is in throwing distance
+Player finds a quickly rotating stick in the wall
+(inspecting the wall without looking at it first will result in damage)
+Player must find blades to a fan, hidden in a mosaic of an Egyptian Pharaoh
+Player turns off spinning stick (puzzle here?)
+Xe assembles fan on the spinning stick using screwdriver from level 3
+TO PASS, THE PLAYER MUST PUT THIS NEXT TO ONE OF THE DEEPER PIPES
+THE ROCK WILL NOT REACH THE SWITCH OF THE DEEPER PIPE
+If the player picked up the rubble from level 3, and kept the screwdriver, 
+xe will unscrew the grille OF THE SHALLOW PIPE, and throw a rock at the final switch, 
+thus breaking it and opening the door
+Level 5
+
+Level 6
+
